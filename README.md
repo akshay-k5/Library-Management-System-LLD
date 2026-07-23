@@ -45,5 +45,5 @@ The system follows **Domain-Driven Design** with clear separation of concerns. I
 1. Ensure you have **Python 3.7+** installed.
 2. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git https://github.com/akshay-k5/Library-Management-System-LLD
    cd library-management-system
