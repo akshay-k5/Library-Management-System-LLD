@@ -1,0 +1,5 @@
+from enum import Enum
+
+class BookStatus(Enum):
+    AVAILABLE = "Available"
+    ISSUED = "Issued"
